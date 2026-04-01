@@ -18,18 +18,12 @@ Render text as large box-drawing block letters in your terminal.
 
 ## Setup
 
-```
-mkdir bigtext
-cd bigtext
-mkdir src
-```
-
 Place `Cargo.toml` at the root and `bigtext.rs` as `src/main.rs`.
 
 Your folder should look like:
 
 ```
-bigtext/
+Rustytext/
 ├── Cargo.toml
 └── src/
     └── main.rs
