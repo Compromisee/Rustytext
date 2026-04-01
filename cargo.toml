@@ -1,8 +1,8 @@
 [package]
-name = "bigtext"
+name = "Rustytext"
 version = "0.1.0"
 edition = "2021"
 
 [[bin]]
-name = "bigtext"
+name = "Rustytext"
 path = "src/main.rs"
